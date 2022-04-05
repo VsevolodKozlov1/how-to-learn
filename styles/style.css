@@ -300,6 +300,7 @@
   font-size: 18px;
   text-decoration: none;
   color: #fff;
+  display: flex;
 }
 
 .footer__column-link:hover {
@@ -308,10 +309,6 @@
 
 .footer__list-item:last-child {
   margin: 0 0 16px;
-}
-
-.footer__column-link {
-  display: flex;
 }
 
 .footer__icon-social {
