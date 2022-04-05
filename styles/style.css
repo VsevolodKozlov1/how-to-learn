@@ -129,7 +129,7 @@
 }
 
 .section-subtitle {
-  margin: 0 20% 60px;
+  margin: 0 20%;
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
@@ -146,7 +146,7 @@
 
 .table__cell {
   width: 250px;
-  margin-bottom: 60px;
+  margin-top: 60px;
 }
 
 .table__heading {
@@ -165,7 +165,7 @@
   height: 890px;
   width: 100%;
   background-color: #f2f2f2;
-  margin: 40px 0 0;
+  margin: 100px 0 0;
   position: relative;
   display: flex;
   flex-direction: column;
