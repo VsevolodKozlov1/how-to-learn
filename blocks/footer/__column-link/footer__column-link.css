@@ -3,11 +3,6 @@
     padding: 0;
     line-height: 30px;
     font-size: 18px;
-    text-decoration: none;
     color: #fff;
     display: flex;
-}
-
-.footer__column-link:hover {
-    text-decoration: underline;
 }
