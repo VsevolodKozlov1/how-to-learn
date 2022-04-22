@@ -12,4 +12,5 @@
     background-position: bottom left;
     background-size: 867px 637px;
     background-repeat: no-repeat;
+    box-sizing: border-box;
   }
